@@ -1,5 +1,5 @@
 /*
- * utmCookies.js - Copyright (c) TheSkilerPL 2020 (https://github.com/theskilerpl)
+ * utmCookies.js - Copyright (c) TheSkilerPL 2021 (https://github.com/theskilerpl)
  *
  * Contains code from an open-source project:
  * getargs.js (https://github.com/hellshltd/getargs.js)
